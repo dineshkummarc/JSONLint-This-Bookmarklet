@@ -10,10 +10,14 @@ Improvements, pulls and comments welcome!
 
 ##About
 Moar readme coming soon!
+
 ##NB:
 In this repository, the bookmarklet code will always be the latest version of the unminified code.
+
 ##Changes
+
 ####0.2
 * Updated jsonlint.js to version 1.2.0
+
 ####0.1
 * First version

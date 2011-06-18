@@ -7,7 +7,7 @@
  * Uses JSONLint.js by Zach Carter | https://github.com/zaach/jsonlint
  * and Simple JavaScript DOM Inspector by Joss Crowcroft | https://github.com/josscrowcroft/Simple-JavaScript-DOM-Inspector
  * 
- * No warranty; probably won't break the internet, this time. 
+ * No warranty; probably won't break the internet, this time.
  * 
  * Improvements, pulls and comments welcome!
  */

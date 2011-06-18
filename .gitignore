@@ -1,6 +1,0 @@
-# OS thingies:
-.DS_Store?
-Thumbs.db
-
-# _backups stays local:
-_backups/**/*
